@@ -1,7 +1,7 @@
 # Basic Information 
 title: Yichao Chen
 position: Master Student
-affiliation: Your Affiliation
+affiliation: Penn State University  
 email: ypc5501 (at) psu.edu
 
 # Search Engine Optimization (SEO)
@@ -15,8 +15,8 @@ canonical: https://minimal-light-theme.yliu.me/
 google_scholar: https://scholar.google.com/citations?user=1BF1eEEAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/yichao0824
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+linkedin: https://www.linkedin.com/in/yichao-chen-a77012258/
+twitter: https://x.com/SMiLeT0T
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -38,20 +38,8 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+#google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
-  - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+#remote_theme: yaoyao-liu/minimal-light

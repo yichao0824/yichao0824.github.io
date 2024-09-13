@@ -4,12 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Computer Science Master's student at Pennsylvania State University. My current research interests combine machine learning knowledge with biology and vaccine prediction. I am also interested in computer vision and object detection. I received my bachelor's degree in Computer Science from Rutgers University-New Brunswick - Colleges
+
+I am a dog person. I have a dog, Jacky. He is a handsome German shepherd. My favorite sports are Skiing and Soccer. Lionel Messi is my Goat! 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Bioinformatics:** vaxign prodection
 
 ## News
 
